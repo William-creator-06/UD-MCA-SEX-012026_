@@ -1,0 +1,15 @@
+bio-alunos.txt
+
+---
+
+Nome: William Leite Batista
+RA: 8261108642
+Curso: Engenharia Software
+Semestre: 1
+Bairro: Vila Nhocuné
+Se trabalha: Sim, sou autônomo
+Objetivo: Trabalhar e atuar na área de Engenharia de Software
+
+---
+
+>>>>
